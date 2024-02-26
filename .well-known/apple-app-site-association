@@ -1,11 +1,1 @@
-{
-   "applinks": {
-      "apps": [],
-      "details": [
-         {
-            "appID": "ECUAX8UQ8J.ru.loveplanet.loveplanet",
-            "paths": ["*"]
-         }
-      ]
-   }
-}
+{ "applinks": { "apps": [], "details": [ { "appID": "ECUAX8UQ8J.ru.loveplanet.loveplanet", "paths": [ "*" ]}]}}
