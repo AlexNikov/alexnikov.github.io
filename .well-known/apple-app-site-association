@@ -1,1 +1,14 @@
-{ "applinks": { "apps": [], "details": [ { "appID": "ECUAX8UQ8J.ru.loveplanet.loveplanet", "paths": [ "*" ]}]}}
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "ECUAX8UQ8J.ru.loveplanet.loveplanet",
+        "components": [{
+                "/": "/stock/*",
+                "comment": "Matches any URL whose path starts with /stock/"
+            }]
+      }
+    ]
+  }
+}
