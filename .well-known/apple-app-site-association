@@ -5,7 +5,7 @@
       {
         "appID": "ECUAX8UQ8J.ru.loveplanet.loveplanet",
         "components": [{
-                "/": "/stock/*",
+                "/": "/alexnikov/*",
                 "comment": "Matches any URL whose path starts with /stock/"
             }]
       }
